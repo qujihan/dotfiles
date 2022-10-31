@@ -1,0 +1,10 @@
+[safe]
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-core
+	directory = /opt/homebrew/Library/Taps/homebrew/homebrew-cask
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[user]
+	name = qujihan
+	email = qujihan@163.com
+[http]
+	postBuffer = 524288000
